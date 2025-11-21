@@ -152,16 +152,16 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Module_Description
-Value=RGB LED
+Name=revision
+Value=2
 
 [Parameter2]
 Name=Module_Name
-Value=H01R0
+Value=H17R0
 
 [Parameter3]
-Name=revision
-Value=0
+Name=Module_Description
+Value=2.5A Stepper Motor Driver
 
 [Configuration1]
 Name=Sources
